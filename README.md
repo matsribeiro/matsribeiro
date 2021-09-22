@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/matsribeiro">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matsribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsribeiro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matsribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsribeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="Totoro" src="https://cdn.discordapp.com/attachments/689166045830709321/888815638905257994/ezgif.com-gif-maker_1.gif">
