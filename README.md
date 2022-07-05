@@ -4,7 +4,7 @@
 
 - 🖤 Meu nome é Matheus, mas pode me chamar de Mat ou Theus.
 - 📚 Estudante de Ciência da computação (PUC Minas), atualmente estou cursando o 2° período.
-- Hobbies preferidos: 🎥 Filmes/Séries, 📈 Economia/Investimentos, 🎧 Música ... 
+- Hobbies preferidos: 🎥 Filmes/Séries, 🏀 Basquete, 🎧 Música ... 
 
 ##
 
