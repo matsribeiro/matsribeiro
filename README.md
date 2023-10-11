@@ -17,7 +17,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsribeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Totoro" src="https://giphy.com/stickers/EliteSportsTours-elite-toronto-raptors-sports-tours-JTh0b324rveYpnQEqi">
+  <img align="right" alt="Totoro" src="https://tenor.com/view/toronto-raptors-raptors-we-the-north-lets-go-raptors-raptors-logo-gif-5384578277857276341">
 </div>
 
 ## Contact
