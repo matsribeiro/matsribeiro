@@ -1,7 +1,5 @@
 ## Hi there
 
-## Sobre mim
-
 - Meu nome é Matheus, mas pode me chamar de Mat ou Theus.
 - Cursando Ciência da Computação na PUC Minas.
 - Atualmente morando em Hamilton - Canada.
