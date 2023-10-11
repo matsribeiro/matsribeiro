@@ -2,9 +2,12 @@
 
 ## Sobre mim
 
-- 🖤 Meu nome é Matheus, mas pode me chamar de Mat ou Theus.
-- 📚 Estudante de Ciência da computação (PUC Minas), atualmente estou cursando o 3° período.
-- Hobbies preferidos: 🎥 Filmes/Séries, 🏀 Basquete, 🎧 Música ... 
+- Meu nome é Matheus, mas pode me chamar de Mat ou Theus.
+- Cursando Ciência da Computação na PUC Minas.
+- Atualmente morando em Hamilton - Canada.
+- Estudo Inglês e Francês.
+- Me interesso pela área de Data Science, Data Analytics e AI.
+- Hobbies preferidos: Basquete, Música, Sneakers ... 
 
 ##
 
