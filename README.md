@@ -17,7 +17,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsribeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img width="50%" height="150em" align="right" alt="Toronto" src="https://media.giphy.com/media/XeqLFn14rnMbt632em/giphy.gif">
+  <img align="right" alt="Toronto" src="https://media.giphy.com/media/XeqLFn14rnMbt632em/giphy.gif" height="50" width="300">
 </div>
 
 ## Contact
