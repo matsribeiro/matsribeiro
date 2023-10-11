@@ -16,8 +16,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matsribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsribeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block;width:50%;height:5"><br>
+<div style="display: inline_block;width=100%;height=100%"><br>
   <img align="right" alt="Toronto" src="https://media.giphy.com/media/XeqLFn14rnMbt632em/giphy.gif">
+  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/XeqLFn14rnMbt632em" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/bleacherreport-transparent-brpredict-XeqLFn14rnMbt632em">via GIPHY</a></p>
 </div>
 
 ## Contact
