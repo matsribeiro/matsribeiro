@@ -4,8 +4,8 @@
 - Cursando Ciência da Computação na PUC Minas.
 - Atualmente morando em Hamilton - Canada.
 - Estudo Inglês e Francês.
-- Me interesso pela área de Back-end Development, Python, Java, C++, JavaScript.
-- Hobbies preferidos: Basquete, Música, Sneakers ... 
+- Me interesso pela área de Data Science.
+- Hobbies preferidos: Basquete, Música, Tennis... 
 
 ##
 
