@@ -1,11 +1,11 @@
 ## Hi there
 
-- Meu nome é Matheus, mas pode me chamar de Mat ou Theus.
+- Meu nome é Matheus, mas pode me chamar de Mat.
 - Cursando Ciência da Computação na PUC Minas.
-- Atualmente morando em Hamilton - Canada.
-- Estudo Inglês e Francês.
-- Me interesso pela área de Data Science.
-- Hobbies preferidos: Basquete, Música, Tennis... 
+- Atualmente morando em Belo Horizonte/MG, mas com experiência internacional no Canada.
+- Estudo Inglês.
+- Me interesso pela área de Data Science e Desenvolvimento de Software.
+- Hobbies preferidos: Basquete, Música, Cuidar dos meus cachorros... 
 
 ##
 
