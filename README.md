@@ -5,7 +5,7 @@
 - Atualmente morando em Belo Horizonte/MG, mas com experiência internacional no Canada.
 - Estudo Inglês e Espanhol.
 - Me interesso pela área de Data Science e Desenvolvimento de Software.
-- Hobbies preferidos: Basquete, Música, Cuidar dos meus cachorros... 
+- Hobbies preferidos: Basquete, Música, Meus cachorros... 
 
 ##
 
