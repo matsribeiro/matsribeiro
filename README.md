@@ -1,11 +1,11 @@
 ## Hi there
 
 - Meu nome é Matheus, mas pode me chamar de Mat.
-- Cursando Ciência da Computação na PUC Minas.
-- Atualmente morando em Belo Horizonte/MG, mas com experiência internacional no Canada.
+- Cursando Ciência da Computação.
+- Atualmente morando em Morada Nova de Minas/MG, mas com experiência internacional no Canada.
 - Estudo Inglês e Espanhol.
-- Me interesso pela área de Data Science e Desenvolvimento de Software.
-- Hobbies preferidos: Basquete, Música, Meus cachorros... 
+- Me interesso pela área de Desenvolvimento de Software e Automação.
+- Hobbies preferidos: Cuidar da fazenda, Basquete, Música, Meus cachorros... 
 
 ##
 
